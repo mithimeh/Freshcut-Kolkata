@@ -1,0 +1,1284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>FreshCut Kolkata | Products</title>
+
+    <meta
+        name="description"
+        content="Browse FreshCut Kolkata's fresh cut vegetables, ready-to-cook vegetable packs and everyday kitchen essentials delivered around Patuli, Garia and nearby areas."
+    >
+
+    <meta
+        name="keywords"
+        content="cut vegetables Kolkata, ready to cook vegetables, chopped vegetables Patuli, vegetable delivery Garia, FreshCut Kolkata"
+    >
+
+    <meta name="author" content="FreshCut Kolkata">
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+<!-- =====================================================
+     HEADER
+     ===================================================== -->
+
+<header class="header">
+
+    <div class="container nav-container">
+
+        <a href="index.html" class="logo">
+            <span class="logo-icon">🥕</span>
+            <span>Fresh<span>Cut</span></span>
+        </a>
+
+
+        <nav class="navigation">
+
+            <a href="index.html">
+                Home
+            </a>
+
+            <a href="products.html" class="active">
+                Products
+            </a>
+
+            <a href="about.html">
+                About Us
+            </a>
+
+            <a href="contact.html">
+                Contact
+            </a>
+
+        </nav>
+
+
+        <a
+            href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%20Kolkata%2C%20I%20would%20like%20to%20place%20an%20order."
+            class="nav-whatsapp"
+            target="_blank"
+        >
+            WhatsApp Order
+        </a>
+
+    </div>
+
+</header>
+
+
+
+<!-- =====================================================
+     PAGE HERO
+     ===================================================== -->
+
+<section class="hero">
+
+    <div class="container hero-content">
+
+        <div class="hero-text">
+
+            <div class="hero-badge">
+                🥬 Fresh • Clean • Ready to Cook
+            </div>
+
+
+            <h1>
+
+                Fresh Vegetables,
+
+                <span>
+                    Ready for Your Kitchen.
+                </span>
+
+            </h1>
+
+
+            <p>
+
+                Choose your everyday vegetables,
+                select the pack size you need and
+                place your order directly on WhatsApp.
+
+            </p>
+
+
+            <div class="hero-buttons">
+
+                <a
+                    href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%20Kolkata%2C%20I%20would%20like%20to%20place%20an%20order."
+                    class="btn btn-primary"
+                    target="_blank"
+                >
+                    Order on WhatsApp
+                </a>
+
+
+                <a
+                    href="#products"
+                    class="btn btn-secondary"
+                >
+                    Browse Products
+                </a>
+
+            </div>
+
+
+            <div class="delivery-note">
+
+                🚚 Patuli • Garia • Mukundapur • Nearby Areas
+
+            </div>
+
+        </div>
+
+
+        <div class="hero-image">
+
+            <div class="hero-card">
+
+                <div class="vegetable-emoji">
+                    🥦
+                </div>
+
+
+                <h3>
+                    Ready-to-Cook
+                </h3>
+
+
+                <p>
+                    Less cutting. Less preparation.
+                    More time for cooking and family.
+                </p>
+
+
+                <div class="mini-products">
+
+                    <span>🥕</span>
+                    <span>🥔</span>
+                    <span>🧅</span>
+                    <span>🥦</span>
+                    <span>🌽</span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     PRODUCT INTRO
+     ===================================================== -->
+
+<section class="trust-section">
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <span class="small-title">
+                OUR PRODUCTS
+            </span>
+
+
+            <h2>
+                Everyday Vegetables, Made Convenient
+            </h2>
+
+
+            <p>
+
+                Our initial range focuses on vegetables
+                that families use regularly.
+                Availability and prices may change based
+                on the day's market supply.
+
+            </p>
+
+        </div>
+
+
+        <div class="features-grid">
+
+            <div class="feature-card">
+
+                <div class="feature-icon">
+                    🥬
+                </div>
+
+                <h3>
+                    Fresh Daily
+                </h3>
+
+                <p>
+                    We aim to prepare orders using fresh
+                    vegetables sourced for daily demand.
+                </p>
+
+            </div>
+
+
+            <div class="feature-card">
+
+                <div class="feature-icon">
+                    🔪
+                </div>
+
+                <h3>
+                    Ready to Cook
+                </h3>
+
+                <p>
+                    Everyday cutting and preparation is
+                    made easier for your kitchen.
+                </p>
+
+            </div>
+
+
+            <div class="feature-card">
+
+                <div class="feature-icon">
+                    📦
+                </div>
+
+                <h3>
+                    Convenient Packs
+                </h3>
+
+                <p>
+                    Choose practical pack sizes based
+                    on your household requirements.
+                </p>
+
+            </div>
+
+
+            <div class="feature-card">
+
+                <div class="feature-icon">
+                    💬
+                </div>
+
+                <h3>
+                    Easy Ordering
+                </h3>
+
+                <p>
+                    No complicated checkout.
+                    Simply order directly through WhatsApp.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     PRODUCTS
+     ===================================================== -->
+
+<section
+    class="products-preview"
+    id="products"
+>
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <span class="small-title">
+                FRESHCUT MENU
+            </span>
+
+
+            <h2>
+                Choose Your Vegetables
+            </h2>
+
+
+            <p>
+                Prices shown below are initial sample prices.
+                Confirm today's availability and price on WhatsApp.
+            </p>
+
+        </div>
+
+
+        <div class="product-grid">
+
+
+            <!-- PRODUCT 1 -->
+
+            <div class="product-card">
+
+                <div class="product-image">
+                    🧅
+                </div>
+
+
+                <div class="product-info">
+
+                    <h3>
+                        Cut Onion
+                    </h3>
+
+
+                    <p>
+                        Fresh onion cut and prepared
+                        for everyday cooking.
+                    </p>
+
+
+                    <div class="product-bottom">
+
+                        <strong>
+                            ₹35 / 500g
+                        </strong>
+
+
+                        <a
+                            href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20I%20want%20to%20order%20500g%20Cut%20Onion."
+                            class="small-order"
+                            target="_blank"
+                        >
+                            Order
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- PRODUCT 2 -->
+
+            <div class="product-card">
+
+                <div class="product-image">
+                    🥔
+                </div>
+
+
+                <div class="product-info">
+
+                    <h3>
+                        Cut Potato
+                    </h3>
+
+
+                    <p>
+                        Ready-to-cook potato pieces
+                        for curries and everyday meals.
+                    </p>
+
+
+                    <div class="product-bottom">
+
+                        <strong>
+                            ₹25 / 500g
+                        </strong>
+
+
+                        <a
+                            href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20I%20want%20to%20order%20500g%20Cut%20Potato."
+                            class="small-order"
+                            target="_blank"
+                        >
+                            Order
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- PRODUCT 3 -->
+
+            <div class="product-card">
+
+                <div class="product-image">
+                    🥕
+                </div>
+
+
+                <div class="product-info">
+
+                    <h3>
+                        Cut Carrot
+                    </h3>
+
+
+                    <p>
+                        Fresh carrot pieces prepared
+                        for cooking and meal preparation.
+                    </p>
+
+
+                    <div class="product-bottom">
+
+                        <strong>
+                            ₹40 / 500g
+                        </strong>
+
+
+                        <a
+                            href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20I%20want%20to%20order%20500g%20Cut%20Carrot."
+                            class="small-order"
+                            target="_blank"
+                        >
+                            Order
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- PRODUCT 4 -->
+
+            <div class="product-card">
+
+                <div class="product-image">
+                    🥦
+                </div>
+
+
+                <div class="product-info">
+
+                    <h3>
+                        Cut Cauliflower
+                    </h3>
+
+
+                    <p>
+                        Convenient cauliflower florets
+                        ready for cooking.
+                    </p>
+
+
+                    <div class="product-bottom">
+
+                        <strong>
+                            ₹50 / 500g
+                        </strong>
+
+
+                        <a
+                            href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20I%20want%20to%20order%20500g%20Cut%20Cauliflower."
+                            class="small-order"
+                            target="_blank"
+                        >
+                            Order
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- PRODUCT 5 -->
+
+            <div class="product-card">
+
+                <div class="product-image">
+                    🫑
+                </div>
+
+
+                <div class="product-info">
+
+                    <h3>
+                        Cut Capsicum
+                    </h3>
+
+
+                    <p>
+                        Fresh capsicum pieces for
+                        curries, noodles and stir-fries.
+                    </p>
+
+
+                    <div class="product-bottom">
+
+                        <strong>
+                            ₹55 / 250g
+                        </strong>
+
+
+                        <a
+                            href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20I%20want%20to%20order%20250g%20Cut%20Capsicum."
+                            class="small-order"
+                            target="_blank"
+                        >
+                            Order
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- PRODUCT 6 -->
+
+            <div class="product-card">
+
+                <div class="product-image">
+                    🌽
+                </div>
+
+
+                <div class="product-info">
+
+                    <h3>
+                        Sweet Corn
+                    </h3>
+
+
+                    <p>
+                        Convenient sweet corn portions
+                        for snacks, salads and cooking.
+                    </p>
+
+
+                    <div class="product-bottom">
+
+                        <strong>
+                            ₹65 / 250g
+                        </strong>
+
+
+                        <a
+                            href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20I%20want%20to%20order%20250g%20Sweet%20Corn."
+                            class="small-order"
+                            target="_blank"
+                        >
+                            Order
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- PRODUCT 7 -->
+
+            <div class="product-card">
+
+                <div class="product-image">
+                    🥗
+                </div>
+
+
+                <div class="product-info">
+
+                    <h3>
+                        Salad Pack
+                    </h3>
+
+
+                    <p>
+                        A convenient combination of
+                        fresh salad vegetables.
+                    </p>
+
+
+                    <div class="product-bottom">
+
+                        <strong>
+                            ₹59 / 500g
+                        </strong>
+
+
+                        <a
+                            href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20I%20want%20to%20order%20500g%20Salad%20Pack."
+                            class="small-order"
+                            target="_blank"
+                        >
+                            Order
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- PRODUCT 8 -->
+
+            <div class="product-card">
+
+                <div class="product-image">
+                    🥕
+                </div>
+
+
+                <div class="product-info">
+
+                    <h3>
+                        Mixed Vegetable Pack
+                    </h3>
+
+
+                    <p>
+                        A convenient mixed vegetable
+                        pack for everyday meals.
+                    </p>
+
+
+                    <div class="product-bottom">
+
+                        <strong>
+                            ₹99 / 1kg
+                        </strong>
+
+
+                        <a
+                            href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20I%20want%20to%20order%201kg%20Mixed%20Vegetable%20Pack."
+                            class="small-order"
+                            target="_blank"
+                        >
+                            Order
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- PRODUCT 9 -->
+
+            <div class="product-card">
+
+                <div class="product-image">
+                    🫘
+                </div>
+
+
+                <div class="product-info">
+
+                    <h3>
+                        Cut Beans
+                    </h3>
+
+
+                    <p>
+                        Freshly prepared beans cut into
+                        convenient cooking pieces.
+                    </p>
+
+
+                    <div class="product-bottom">
+
+                        <strong>
+                            ₹45 / 500g
+                        </strong>
+
+
+                        <a
+                            href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20I%20want%20to%20order%20500g%20Cut%20Beans."
+                            class="small-order"
+                            target="_blank"
+                        >
+                            Order
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- PRODUCT 10 -->
+
+            <div class="product-card">
+
+                <div class="product-image">
+                    🥬
+                </div>
+
+
+                <div class="product-info">
+
+                    <h3>
+                        Cabbage Cut
+                    </h3>
+
+
+                    <p>
+                        Fresh cabbage prepared into
+                        convenient cooking portions.
+                    </p>
+
+
+                    <div class="product-bottom">
+
+                        <strong>
+                            ₹35 / 500g
+                        </strong>
+
+
+                        <a
+                            href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20I%20want%20to%20order%20500g%20Cabbage%20Cut."
+                            class="small-order"
+                            target="_blank"
+                        >
+                            Order
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- PRODUCT 11 -->
+
+            <div class="product-card">
+
+                <div class="product-image">
+                    🍅
+                </div>
+
+
+                <div class="product-info">
+
+                    <h3>
+                        Tomato Cut
+                    </h3>
+
+
+                    <p>
+                        Convenient tomato preparation
+                        for salads and cooking.
+                    </p>
+
+
+                    <div class="product-bottom">
+
+                        <strong>
+                            ₹40 / 500g
+                        </strong>
+
+
+                        <a
+                            href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20I%20want%20to%20order%20500g%20Tomato%20Cut."
+                            class="small-order"
+                            target="_blank"
+                        >
+                            Order
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- PRODUCT 12 -->
+
+            <div class="product-card">
+
+                <div class="product-image">
+                    🌶️
+                </div>
+
+
+                <div class="product-info">
+
+                    <h3>
+                        Green Chilli
+                    </h3>
+
+
+                    <p>
+                        Fresh green chillies prepared
+                        for convenient everyday use.
+                    </p>
+
+
+                    <div class="product-bottom">
+
+                        <strong>
+                            ₹20 / 100g
+                        </strong>
+
+
+                        <a
+                            href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20I%20want%20to%20order%20100g%20Green%20Chilli."
+                            class="small-order"
+                            target="_blank"
+                        >
+                            Order
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="center-button">
+
+            <a
+                href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20please%20send%20me%20today%27s%20available%20vegetable%20list%20and%20prices."
+                class="btn btn-primary"
+                target="_blank"
+            >
+                💬 Ask for Today's List
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     VALUE SECTION
+     ===================================================== -->
+
+<section class="how-section">
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <span class="small-title">
+                SIMPLE ORDERING
+            </span>
+
+
+            <h2>
+                Order in Four Simple Steps
+            </h2>
+
+        </div>
+
+
+        <div class="steps-grid">
+
+
+            <div class="step">
+
+                <div class="step-number">
+                    1
+                </div>
+
+                <h3>
+                    Choose
+                </h3>
+
+                <p>
+                    Pick the vegetables and quantities
+                    you want.
+                </p>
+
+            </div>
+
+
+            <div class="step">
+
+                <div class="step-number">
+                    2
+                </div>
+
+                <h3>
+                    WhatsApp
+                </h3>
+
+                <p>
+                    Click the order button and send
+                    us your requirements.
+                </p>
+
+            </div>
+
+
+            <div class="step">
+
+                <div class="step-number">
+                    3
+                </div>
+
+                <h3>
+                    Confirm
+                </h3>
+
+                <p>
+                    We confirm availability, price
+                    and delivery details.
+                </p>
+
+            </div>
+
+
+            <div class="step">
+
+                <div class="step-number">
+                    4
+                </div>
+
+                <h3>
+                    Receive
+                </h3>
+
+                <p>
+                    Your order is prepared and
+                    delivered locally.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     DELIVERY SECTION
+     ===================================================== -->
+
+<section class="delivery-section">
+
+    <div class="container delivery-container">
+
+
+        <div class="delivery-text">
+
+            <span class="small-title">
+                DELIVERY AREA
+            </span>
+
+
+            <h2>
+                Starting Hyperlocal
+            </h2>
+
+
+            <p>
+
+                FreshCut is designed to start with
+                a focused delivery area so we can
+                maintain better service and control
+                delivery costs.
+
+            </p>
+
+
+            <div class="area-list">
+
+                <span>
+                    ✓ Patuli
+                </span>
+
+                <span>
+                    ✓ Garia
+                </span>
+
+                <span>
+                    ✓ Mukundapur
+                </span>
+
+                <span>
+                    ✓ Baghajatin
+                </span>
+
+            </div>
+
+
+            <p class="delivery-note-dark">
+
+                Delivery availability depends on
+                your exact location. Please confirm
+                with us before ordering.
+
+            </p>
+
+        </div>
+
+
+
+        <div class="delivery-box">
+
+            <div class="location-icon">
+                📍
+            </div>
+
+
+            <h3>
+                Check Your Area
+            </h3>
+
+
+            <p>
+                Send your location on WhatsApp
+                and we'll confirm whether delivery
+                is available.
+            </p>
+
+
+            <a
+                href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20please%20confirm%20delivery%20availability%20for%20my%20location."
+                class="btn btn-primary"
+                target="_blank"
+            >
+                Check Delivery
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     FINAL CTA
+     ===================================================== -->
+
+<section class="cta-section">
+
+    <div class="container cta-content">
+
+        <div>
+
+            <span class="small-title">
+                NEED SOMETHING ELSE?
+            </span>
+
+
+            <h2>
+                Ask Us What's Available Today.
+            </h2>
+
+
+            <p>
+                Vegetable availability can change
+                with the day's supply.
+            </p>
+
+        </div>
+
+
+        <a
+            href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%2C%20please%20send%20me%20today%27s%20available%20vegetables%20and%20prices."
+            class="btn btn-white"
+            target="_blank"
+        >
+            💬 WhatsApp Us
+        </a>
+
+    </div>
+
+</section>
+
+
+
+<!-- =====================================================
+     FOOTER
+     ===================================================== -->
+
+<footer class="footer">
+
+    <div class="container footer-grid">
+
+
+        <div class="footer-about">
+
+            <a
+                href="index.html"
+                class="logo footer-logo"
+            >
+                <span class="logo-icon">🥕</span>
+                <span>
+                    Fresh<span>Cut</span>
+                </span>
+            </a>
+
+
+            <p>
+
+                Freshly prepared,
+                ready-to-cook vegetables
+                delivered locally in Kolkata.
+
+            </p>
+
+        </div>
+
+
+
+        <div class="footer-links">
+
+            <h4>
+                Quick Links
+            </h4>
+
+            <a href="index.html">
+                Home
+            </a>
+
+            <a href="products.html">
+                Products
+            </a>
+
+            <a href="about.html">
+                About Us
+            </a>
+
+            <a href="contact.html">
+                Contact
+            </a>
+
+        </div>
+
+
+
+        <div class="footer-links">
+
+            <h4>
+                Delivery Areas
+            </h4>
+
+            <span>
+                Patuli
+            </span>
+
+            <span>
+                Garia
+            </span>
+
+            <span>
+                Mukundapur
+            </span>
+
+            <span>
+                Baghajatin
+            </span>
+
+        </div>
+
+
+
+        <div class="footer-contact">
+
+            <h4>
+                Contact
+            </h4>
+
+
+            <p>
+                📱 WhatsApp
+            </p>
+
+
+            <a
+                href="https://wa.me/91XXXXXXXXXX"
+                target="_blank"
+            >
+                Chat With Us
+            </a>
+
+
+            <p>
+                📍 Kolkata, West Bengal
+            </p>
+
+        </div>
+
+    </div>
+
+
+
+    <div class="footer-bottom">
+
+        <div class="container">
+
+            <p>
+                © 2026 FreshCut Kolkata.
+                All rights reserved.
+            </p>
+
+        </div>
+
+    </div>
+
+</footer>
+
+
+
+<!-- =====================================================
+     FLOATING WHATSAPP
+     ===================================================== -->
+
+<a
+    href="https://wa.me/91XXXXXXXXXX?text=Hi%20FreshCut%20Kolkata%2C%20I%20would%20like%20to%20place%20an%20order."
+    class="floating-whatsapp"
+    target="_blank"
+    aria-label="Order on WhatsApp"
+>
+    💬
+</a>
+
+
+</body>
+</html>
